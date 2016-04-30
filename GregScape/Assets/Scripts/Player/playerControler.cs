@@ -3,9 +3,19 @@ using System.Collections;
 
 public class playerControler : MonoBehaviour {
 
+	Rigidbody2D rBody;
+	Animator anim;
+	BaseCharacter character;
+	const float MOVESPEED = 15;
+
+
 	// Use this for initialization
 	void Start () {
-	
+
+		rBody = GetComponent<Rigidbody2D> ();
+		anim = GetComponent<Animator> ();
+		character = GetComponent<BaseCharacter> ();
+
 	}
 	
 	// Update is called once per frame
@@ -14,29 +24,19 @@ public class playerControler : MonoBehaviour {
 	}
 
 	void Movement () {
+		
+		Vector2 movementInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+		movementInput.Normalize ();
 
-		Vector2 direction = new Vector2 ();
-
-		if (Input.GetKey (KeyCode.D)) {
-			direction.x += 1;
+		//if there are inputs
+		if (movementInput != Vector2.zero) {
+			anim.SetBool ("isWalking", true);
+			anim.SetFloat ("inputX", movementInput.x);
+			anim.SetFloat ("inputY", movementInput.y);
+		} else {
+			anim.SetBool ("isWalking", false);
 		}
 
-		if (Input.GetKey (KeyCode.A)) {
-			direction.x -= 1;
-		}
-
-		if (Input.GetKey (KeyCode.W)) {
-			direction.y += 1;
-		}
-
-		if (Input.GetKey (KeyCode.S)) {
-			direction.y -= 1;
-		}
-
-		direction.Normalize ();
-
-		direction *= 0.1f;
-
-		transform.position += new Vector3(direction.x, direction.y, 0);
+		rBody.MovePosition (rBody.position + (movementInput * Time.deltaTime * character.Movespeed));
 	}
 }

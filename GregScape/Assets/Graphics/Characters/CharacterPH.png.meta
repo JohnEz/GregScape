@@ -1,0 +1,1906 @@
+fileFormatVersion: 2
+guid: 63627a65e3ba01d47b285326b2124049
+timeCreated: 1461960897
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterPH_0
+    21300002: CharacterPH_1
+    21300004: CharacterPH_2
+    21300006: CharacterPH_3
+    21300008: CharacterPH_4
+    21300010: CharacterPH_5
+    21300012: CharacterPH_6
+    21300014: CharacterPH_7
+    21300016: CharacterPH_8
+    21300018: CharacterPH_9
+    21300020: CharacterPH_10
+    21300022: CharacterPH_11
+    21300024: CharacterPH_12
+    21300026: CharacterPH_13
+    21300028: CharacterPH_14
+    21300030: CharacterPH_15
+    21300032: CharacterPH_16
+    21300034: CharacterPH_17
+    21300036: CharacterPH_18
+    21300038: CharacterPH_19
+    21300040: CharacterPH_20
+    21300042: CharacterPH_21
+    21300044: CharacterPH_22
+    21300046: CharacterPH_23
+    21300048: CharacterPH_24
+    21300050: CharacterPH_25
+    21300052: CharacterPH_26
+    21300054: CharacterPH_27
+    21300056: CharacterPH_28
+    21300058: CharacterPH_29
+    21300060: CharacterPH_30
+    21300062: CharacterPH_31
+    21300064: CharacterPH_32
+    21300066: CharacterPH_33
+    21300068: CharacterPH_34
+    21300070: CharacterPH_35
+    21300072: CharacterPH_36
+    21300074: CharacterPH_37
+    21300076: CharacterPH_38
+    21300078: CharacterPH_39
+    21300080: CharacterPH_40
+    21300082: CharacterPH_41
+    21300084: CharacterPH_42
+    21300086: CharacterPH_43
+    21300088: CharacterPH_44
+    21300090: CharacterPH_45
+    21300092: CharacterPH_46
+    21300094: CharacterPH_47
+    21300096: CharacterPH_48
+    21300098: CharacterPH_49
+    21300100: CharacterPH_50
+    21300102: CharacterPH_51
+    21300104: CharacterPH_52
+    21300106: CharacterPH_53
+    21300108: CharacterPH_54
+    21300110: CharacterPH_55
+    21300112: CharacterPH_56
+    21300114: CharacterPH_57
+    21300116: CharacterPH_58
+    21300118: CharacterPH_59
+    21300120: CharacterPH_60
+    21300122: CharacterPH_61
+    21300124: CharacterPH_62
+    21300126: CharacterPH_63
+    21300128: CharacterPH_64
+    21300130: CharacterPH_65
+    21300132: CharacterPH_66
+    21300134: CharacterPH_67
+    21300136: CharacterPH_68
+    21300138: CharacterPH_69
+    21300140: CharacterPH_70
+    21300142: CharacterPH_71
+    21300144: CharacterPH_72
+    21300146: CharacterPH_73
+    21300148: CharacterPH_74
+    21300150: CharacterPH_75
+    21300152: CharacterPH_76
+    21300154: CharacterPH_77
+    21300156: CharacterPH_78
+    21300158: CharacterPH_79
+    21300160: CharacterPH_80
+    21300162: CharacterPH_81
+    21300164: CharacterPH_82
+    21300166: CharacterPH_83
+    21300168: CharacterPH_84
+    21300170: CharacterPH_85
+    21300172: CharacterPH_86
+    21300174: CharacterPH_87
+    21300176: CharacterPH_88
+    21300178: CharacterPH_89
+    21300180: CharacterPH_90
+    21300182: CharacterPH_91
+    21300184: CharacterPH_92
+    21300186: CharacterPH_93
+    21300188: CharacterPH_94
+    21300190: CharacterPH_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharacterPH_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 10}
+        - {x: 14, y: 11}
+        - {x: 12, y: 16}
+    - name: CharacterPH_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -14, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 14}
+        - {x: 15, y: 16}
+    - name: CharacterPH_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: CharacterPH_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: -10, y: 16}
+        - {x: -12, y: 14}
+        - {x: -14, y: -2}
+        - {x: -14, y: -11}
+        - {x: -7, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 5}
+        - {x: 15, y: 14}
+    - name: CharacterPH_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 9}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 12}
+        - {x: 14, y: 16}
+    - name: CharacterPH_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 7}
+        - {x: 13, y: 16}
+        - {x: -15, y: 16}
+    - name: CharacterPH_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -12, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -13}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 11}
+    - name: CharacterPH_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 10}
+        - {x: -16, y: 7}
+        - {x: -16, y: -14}
+        - {x: -11, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 15}
+        - {x: 13, y: 16}
+    - name: CharacterPH_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 9, y: 16}
+    - name: CharacterPH_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 14}
+        - {x: 10, y: 16}
+    - name: CharacterPH_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 14, y: 16}
+    - name: CharacterPH_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 14}
+        - {x: -15, y: -8}
+        - {x: -12, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 14}
+        - {x: 12, y: 16}
+    - name: CharacterPH_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -5}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -7}
+        - {x: 14, y: 11}
+        - {x: 11, y: 16}
+    - name: CharacterPH_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -15}
+        - {x: 14, y: -1}
+        - {x: 14, y: 14}
+    - name: CharacterPH_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: 0}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 14, y: -5}
+        - {x: 14, y: 11}
+    - name: CharacterPH_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -11, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -1}
+        - {x: -8, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -1}
+        - {x: 16, y: 15}
+    - name: CharacterPH_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -2}
+        - {x: -8, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 16}
+    - name: CharacterPH_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -3}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -5}
+        - {x: 15, y: 16}
+    - name: CharacterPH_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 12}
+        - {x: -14, y: 2}
+        - {x: -7, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -6}
+        - {x: 13, y: 12}
+    - name: CharacterPH_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: 3}
+        - {x: -11, y: -9}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -8}
+        - {x: 13, y: 16}
+    - name: CharacterPH_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -4}
+        - {x: -12, y: -11}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 14}
+    - name: CharacterPH_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: 7}
+        - {x: -15, y: 3}
+        - {x: -11, y: -9}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 14}
+        - {x: 11, y: 16}
+    - name: CharacterPH_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -11}
+        - {x: -8, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 10}
+        - {x: 10, y: 16}
+    - name: CharacterPH_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 7}
+    - name: CharacterPH_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 13}
+        - {x: -14, y: 0}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: 1}
+        - {x: 16, y: 14}
+        - {x: 15, y: 16}
+    - name: CharacterPH_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -3}
+        - {x: -12, y: -15}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: CharacterPH_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 13}
+        - {x: -14, y: -5}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+    - name: CharacterPH_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -15, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -8}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: 6}
+        - {x: 13, y: 13}
+    - name: CharacterPH_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 15}
+        - {x: -15, y: -5}
+        - {x: -11, y: -12}
+        - {x: -7, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 16}
+    - name: CharacterPH_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -4}
+        - {x: -10, y: -12}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -3}
+        - {x: 13, y: 14}
+        - {x: 9, y: 16}
+    - name: CharacterPH_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: 2}
+        - {x: 14, y: 16}
+    - name: CharacterPH_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -4}
+        - {x: -12, y: -15}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 14, y: 3}
+        - {x: 14, y: 16}
+    - name: CharacterPH_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -11, y: 16}
+        - {x: -13, y: 15}
+        - {x: -13, y: -11}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 14, y: -11}
+    - name: CharacterPH_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 5}
+        - {x: -15, y: -9}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -6}
+        - {x: 14, y: 11}
+        - {x: 12, y: 16}
+    - name: CharacterPH_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -7}
+        - {x: -6, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -6}
+        - {x: 14, y: 13}
+    - name: CharacterPH_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -15, y: 11}
+        - {x: -15, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 12}
+        - {x: 11, y: 16}
+    - name: CharacterPH_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -14}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 14, y: 16}
+    - name: CharacterPH_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -9}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: CharacterPH_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -15}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 14}
+        - {x: 13, y: 16}
+    - name: CharacterPH_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -12}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 13}
+        - {x: 11, y: 16}
+    - name: CharacterPH_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 15}
+        - {x: -13, y: -15}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: -2}
+        - {x: 13, y: 11}
+    - name: CharacterPH_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -14}
+        - {x: -7, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 16}
+    - name: CharacterPH_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+        - {x: 13, y: 16}
+    - name: CharacterPH_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -11}
+        - {x: -10, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+    - name: CharacterPH_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -14}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+        - {x: 13, y: 16}
+    - name: CharacterPH_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -13}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -8}
+        - {x: 16, y: 12}
+        - {x: 13, y: 16}
+    - name: CharacterPH_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 8}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 12}
+        - {x: 10, y: 16}
+    - name: CharacterPH_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 12}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -11}
+        - {x: 15, y: 13}
+        - {x: 10, y: 16}
+    - name: CharacterPH_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 9}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 15, y: 8}
+    - name: CharacterPH_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 15, y: 10}
+    - name: CharacterPH_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 13, y: 16}
+    - name: CharacterPH_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 13}
+        - {x: -14, y: 6}
+        - {x: -14, y: -15}
+        - {x: -13, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 14}
+        - {x: 10, y: 16}
+    - name: CharacterPH_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 16}
+    - name: CharacterPH_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 3}
+        - {x: 13, y: 12}
+        - {x: 10, y: 16}
+        - {x: -9, y: 16}
+        - {x: -13, y: 14}
+    - name: CharacterPH_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -14, y: 12}
+        - {x: -15, y: 1}
+        - {x: -15, y: -13}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 3}
+        - {x: 11, y: 16}
+    - name: CharacterPH_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: CharacterPH_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -15, y: 4}
+    - name: CharacterPH_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 12, y: 16}
+    - name: CharacterPH_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: CharacterPH_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 12}
+        - {x: 13, y: 16}
+        - {x: -11, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+    - name: CharacterPH_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 14}
+        - {x: -15, y: -3}
+        - {x: -8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 0}
+        - {x: 11, y: 16}
+    - name: CharacterPH_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -3}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 12}
+        - {x: 9, y: 16}
+    - name: CharacterPH_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 15}
+        - {x: 11, y: 16}
+        - {x: -15, y: 16}
+        - {x: -15, y: -9}
+        - {x: -10, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: -10}
+    - name: CharacterPH_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -14, y: 12}
+        - {x: -14, y: -8}
+        - {x: -11, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 16}
+    - name: CharacterPH_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: 3}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 11}
+        - {x: 8, y: 16}
+    - name: CharacterPH_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 12}
+        - {x: -14, y: -5}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 15}
+        - {x: 10, y: 16}
+    - name: CharacterPH_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -4}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+    - name: CharacterPH_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: 2}
+        - {x: -10, y: -14}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 12, y: -12}
+    - name: CharacterPH_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+    - name: CharacterPH_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -15, y: 13}
+        - {x: -15, y: 2}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 8, y: 16}
+    - name: CharacterPH_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 15}
+        - {x: -15, y: -2}
+        - {x: -10, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 6}
+        - {x: 9, y: 16}
+    - name: CharacterPH_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -1}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: 9, y: 16}
+    - name: CharacterPH_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -15}
+        - {x: 15, y: -1}
+        - {x: 15, y: 15}
+    - name: CharacterPH_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -5}
+        - {x: 15, y: 13}
+        - {x: 11, y: 16}
+    - name: CharacterPH_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: 13}
+        - {x: 13, y: 16}
+    - name: CharacterPH_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: -7}
+        - {x: -12, y: -14}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 14}
+        - {x: 13, y: 16}
+    - name: CharacterPH_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -9}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -15}
+        - {x: 14, y: -3}
+        - {x: 14, y: 16}
+    - name: CharacterPH_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -8, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -13}
+        - {x: 14, y: -6}
+        - {x: 14, y: 15}
+    - name: CharacterPH_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -12, y: 14}
+        - {x: -12, y: -8}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -2}
+        - {x: 14, y: 16}
+    - name: CharacterPH_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -7}
+        - {x: 14, y: 16}
+    - name: CharacterPH_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -11}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -11}
+        - {x: 14, y: -7}
+        - {x: 14, y: 16}
+    - name: CharacterPH_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: -12, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: 2}
+        - {x: 14, y: 13}
+    - name: CharacterPH_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -15, y: 9}
+        - {x: -15, y: -16}
+        - {x: 7, y: -16}
+        - {x: 13, y: -11}
+        - {x: 14, y: -3}
+        - {x: 14, y: 16}
+    - name: CharacterPH_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -1}
+        - {x: 14, y: 16}
+    - name: CharacterPH_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 15, y: 16}
+    - name: CharacterPH_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -9, y: 16}
+        - {x: -14, y: 10}
+        - {x: -15, y: -2}
+        - {x: -15, y: -13}
+        - {x: -12, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: -2}
+        - {x: 15, y: 10}
+    - name: CharacterPH_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 15, y: 16}
+    - name: CharacterPH_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -11, y: 12}
+        - {x: -13, y: 8}
+        - {x: -13, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 12}
+        - {x: 10, y: 16}
+    - name: CharacterPH_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 10}
+        - {x: 12, y: 16}
+    - name: CharacterPH_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 15}
+        - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -14, y: 9}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -12}
+        - {x: 14, y: -6}
+    - name: CharacterPH_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 13}
+        - {x: -16, y: 6}
+        - {x: -16, y: -11}
+        - {x: -8, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 14}
+        - {x: 12, y: 16}
+    - name: CharacterPH_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 13}
+        - {x: -16, y: 1}
+        - {x: -16, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: CharacterPH_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -14}
+        - {x: -12, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: CharacterPH_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 14}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: CharacterPH_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 0}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 13}
+        - {x: 13, y: 16}
+    - name: CharacterPH_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -13, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
