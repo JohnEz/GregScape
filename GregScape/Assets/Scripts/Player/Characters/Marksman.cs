@@ -12,4 +12,13 @@ public class Marksman : BaseCharacter {
 		Movespeed = 15;
 	}
 
+	void Start() {
+		Abilities.Add("Ability1", GetComponent<MusketShot>());
+	}
+
+	public override bool Attack1 (Vector3 position, Vector2 direction)
+	{
+		return Abilities ["Ability1"].UseAbility (position, direction);
+	}
+
 }

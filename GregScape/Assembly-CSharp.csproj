@@ -45,11 +45,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Abilities\BaseAbility.cs" />
+     <Compile Include="Assets\Scripts\Abilities\LaunchProjectile.cs" />
+     <Compile Include="Assets\Scripts\Abilities\MusketShot.cs" />
      <Compile Include="Assets\Scripts\Camera\CameraController.cs" />
+     <Compile Include="Assets\Scripts\Effects\EffectController.cs" />
+     <Compile Include="Assets\Scripts\Effects\MoveTrail.cs" />
      <Compile Include="Assets\Scripts\Player\Characters\BaseCharacter.cs" />
      <Compile Include="Assets\Scripts\Player\Characters\Marksman.cs" />
      <Compile Include="Assets\Scripts\Player\Characters\Support.cs" />
-     <Compile Include="Assets\Scripts\Player\playerControler.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs" />

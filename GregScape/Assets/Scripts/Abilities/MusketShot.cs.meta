@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ec7afb43cb6e244190e92a3753826a8
+timeCreated: 1462212997
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myProjectile: {fileID: 156710, guid: 23117f8a6d7089847aef441e5f069568, type: 2}
+  - shotEffect: {fileID: 106746, guid: b3b3502f1e620814cbf4ca9e7cf56707, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

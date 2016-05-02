@@ -1,12 +1,16 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Characters\Marksman.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Effects\MoveTrail.cs">
     <Files>
-      <File FileName="Assets\Scripts\Player\playerControler.cs" Line="40" Column="59" />
-      <File FileName="Assets\Scripts\Camera\CameraController.cs" Line="6" Column="27" />
-      <File FileName="Assets\Scripts\Player\Characters\BaseCharacter.cs" Line="13" Column="28" />
-      <File FileName="Assets\Scripts\Player\Characters\Marksman.cs" Line="7" Column="21" />
+      <File FileName="Assets\Scripts\Abilities\MusketShot.cs" Line="20" Column="52" />
+      <File FileName="Assets\Scripts\Camera\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Characters\BaseCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Characters\Marksman.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Player\Characters\Support.cs" Line="8" Column="50" />
+      <File FileName="Assets\Scripts\Abilities\BaseAbility.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\Abilities\LaunchProjectile.cs" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\Player\PlayerController.cs" Line="48" Column="54" />
+      <File FileName="Assets\Scripts\Effects\MoveTrail.cs" Line="12" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
