@@ -8,10 +8,6 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-#Library Folder
-Library/
-Temp/
-
 # Windows Installer files
 *.cab
 *.msi
@@ -53,17 +49,17 @@ Temporary Items
 # =============== #
 # Unity generated #
 # =============== #
-[Tt]emp/
-[Oo]bj/
-[Bb]uild
-[Ll]ibrary/
+GregScape/[Tt]emp/
+GregScape/[Oo]bj/
+GregScape/[Bb]uild
+GregScape/Library/
 sysinfo.txt
 *.stackdump
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-[Ee]xported[Oo]bj/
+GregScape/[Ee]xported[Oo]bj/
 .vs/
 /*.userprefs
 /*.csproj
